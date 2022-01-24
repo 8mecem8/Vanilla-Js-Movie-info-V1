@@ -1,4 +1,4 @@
-# Vanilla Javascript Movie Info Webb Application V1 
+# Vanilla Javascript Movie Info Web Application V1 
 
 In this version of the project I wanted focus on only Frontend Design rather than Functionality, Simplying fetching data from a Movie database api and rendering info using Html, CSS and Javascript
 
